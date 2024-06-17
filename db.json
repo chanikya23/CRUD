@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Json server"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "example",
+      "postid": 101
+    }
+  ],
+  "profile": {
+    "name": "typecode"
+  },
+  "employee": [
+    {
+      "firstname": "satish",
+      "lastname": "chanikya",
+      "email": "satish@gmail.com",
+      "dob": "2024-05-30T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "ASU Tech",
+      "experience": 4,
+      "salary": 20,
+      "id": "ad00"
+    },
+    {
+      "id": "2126",
+      "firstname": "asd",
+      "lastname": "asd",
+      "email": "asd",
+      "dob": "2024-05-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "asdas",
+      "experience": 2,
+      "salary": 5
+    },
+    {
+      "firstname": "sasasas",
+      "lastname": "asas",
+      "email": "asda@gmail.com",
+      "dob": "2024-05-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "asu tech",
+      "experience": 3,
+      "salary": 10,
+      "id": "5655"
+    }
+  ]
+}
